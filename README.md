@@ -2,7 +2,8 @@
 - 👀 I’m interested in business minded talks.
 - 🌱 I’m currently learning the art of not giving ****
 - 💞️ I’m looking to collaborate on business deals.
-- 📫 How to reach me ... 
+- 📫 How to reach me ... prashantsirohi@hotmail.com
+- I am founder of Bizowl
 
 <!---
 iamprashantsirohi/iamprashantsirohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
